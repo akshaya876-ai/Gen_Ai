@@ -1,0 +1,2 @@
+"google-genai" | Out-File -Encoding utf8 requirements.txt
+"python-dotenv" | Out-File -Encoding utf8 -Append requirements.txt

@@ -1,0 +1,19 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+Artificial intelligence is,1.0,1,257,' a',-111.2691,-111.2691,12.05
+Artificial intelligence is,1.0,2,262,' the',-112.0987,-112.0987,5.25
+Artificial intelligence is,1.0,3,407,' not',-112.2936,-112.2936,4.32
+Artificial intelligence is,1.0,4,281,' an',-112.6288,-112.6288,3.09
+Artificial intelligence is,1.0,5,783,' now',-113.0341,-113.0341,2.06
+Artificial intelligence is,1.0,6,530,' one',-113.1209,-113.1209,1.89
+what is python?,1.0,1,198,'\n',-88.1388,-88.1388,29.9
+what is python?,1.0,2,632,' It',-90.0014,-90.0014,4.64
+what is python?,1.0,3,314,' I',-90.1346,-90.1346,4.06
+what is python?,1.0,4,1867,' What',-90.1982,-90.1982,3.81
+what is python?,1.0,5,4162,' Why',-90.5052,-90.5052,2.81
+what is python?,1.0,6,1374,' How',-90.9112,-90.9112,1.87
+explain python,1.0,1,12,'-',-80.2555,-80.2555,12.4
+explain python,1.0,2,2438,' code',-80.8157,-80.8157,7.08
+explain python,1.0,3,13,'.',-81.1498,-81.1498,5.07
+explain python,1.0,4,4226,' script',-81.6373,-81.6373,3.12
+explain python,1.0,5,62,'_',-81.7168,-81.7168,2.88
+explain python,1.0,6,18,'3',-82.0055,-82.0055,2.16
